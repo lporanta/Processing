@@ -27,7 +27,7 @@
 <img src="https://github.com/lporanta/Processing/blob/master/demo/randomStudy-002863.png" width="640" height="640">
 </p>
 
-###### <div align="center"> Study with random values and spiral </div>
+###### <div align="center"> Study with gaussian distribution and spiral </div>
 
 ***
 
