@@ -16,7 +16,9 @@
 
 ***
 
-<img src="https://github.com/lporanta/Processing/blob/master/demo/randomStudy-002863.png" width="640" height="640" img align="center">
+<p align="center">
+<img src="https://github.com/lporanta/Processing/blob/master/demo/randomStudy-002863.png" width="640" height="640">
+</p>
 
 ###### Study with random values and spiral
 
