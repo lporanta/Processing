@@ -1,6 +1,7 @@
 # Processing
-
+<p align="center">
 ![worleydots-000002](https://github.com/lporanta/Processing/blob/master/demo/worleydots-000002.png)
+</p>
 
 ###### <div align="center"> Worley noise-like study with color </div>
 
