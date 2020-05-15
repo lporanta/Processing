@@ -1,4 +1,4 @@
-# Processing
+#  <div align="center"> Processing Demo Page </div>
 <p align="center">
 <img src="https://github.com/lporanta/Processing/blob/master/demo/worleydots-000002.png">
 </p>
