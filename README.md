@@ -10,7 +10,9 @@
 ###### Study with random values and gaussian distribution
 
 <img src="https://github.com/lporanta/Processing/blob/master/demo/randomStudy-002863.png" width="640" height="640">
+
 ###### Study with random values and spiral
 
 <img src="https://github.com/lporanta/Processing/blob/master/demo/ezgif-2-96863537cdc3.gif" width="640" height="480">
+
 ###### Worley noise
