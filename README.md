@@ -1,19 +1,25 @@
 # Processing
 <p align="center">
-![worleydots-000002](https://github.com/lporanta/Processing/blob/master/demo/worleydots-000002.png)
+<img src="https://github.com/lporanta/Processing/blob/master/demo/worleydots-000002.png">
 </p>
 
 ###### <div align="center"> Worley noise-like study with color </div>
 
 ***
 
-![worleydots-000026](https://github.com/lporanta/Processing/blob/master/demo/worleydots-000026.png)
-###### Worley noise-like study
+<p align="center">
+<img src="https://github.com/lporanta/Processing/blob/master/demo/worleydots-000026.png">
+</p>
+
+###### <div align="center"> Worley noise-like study </div>
 
 ***
 
-![randomStudy-000690](https://github.com/lporanta/Processing/blob/master/demo/randomStudy-000690.png)
-###### Study with random values and gaussian distribution
+<p align="center">
+<img src="https://github.com/lporanta/Processing/blob/master/demo/randomStudy-000690.png">
+</p>
+
+###### <div align="center"> Study with random values and gaussian distribution </div>
 
 ***
 
@@ -21,12 +27,14 @@
 <img src="https://github.com/lporanta/Processing/blob/master/demo/randomStudy-002863.png" width="640" height="640">
 </p>
 
-###### Study with random values and spiral
+###### <div align="center"> Study with random values and spiral </div>
 
 ***
 
+<p align="center">
 <img src="https://github.com/lporanta/Processing/blob/master/demo/ezgif-2-96863537cdc3.gif" width="640" height="480">
+</p>
 
-###### Worley noise
+###### <div align="center"> Worley noise </div>
 
 ***
