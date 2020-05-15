@@ -1,6 +1,6 @@
 # Processing
 
-<div align="center"> ![worleydots-000002](https://github.com/lporanta/Processing/blob/master/demo/worleydots-000002.png) </div>
+![worleydots-000002](https://github.com/lporanta/Processing/blob/master/demo/worleydots-000002.png)
 
 ###### <div align="center"> Worley noise-like study with color </div>
 
@@ -16,7 +16,7 @@
 
 ***
 
-<img src="https://github.com/lporanta/Processing/blob/master/demo/randomStudy-002863.png" width="640" height="640">
+<img align="right" img src="https://github.com/lporanta/Processing/blob/master/demo/randomStudy-002863.png" width="640" height="640">
 
 ###### Study with random values and spiral
 
