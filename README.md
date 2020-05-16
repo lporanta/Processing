@@ -1,5 +1,14 @@
 #  <div align="center"> Processing </div>
 
+
+<p align="center">
+<img src="https://github.com/lporanta/Processing/blob/master/demo/SnowStorm.gif" width="640" height="480">
+</p>
+
+###### <div align="center"> Study with particles and flow field </div>
+
+***
+
 <p align="center">
 <img src="https://github.com/lporanta/Processing/blob/master/demo/singularity.gif" width="640" height="480">
 </p>
