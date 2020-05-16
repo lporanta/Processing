@@ -1,5 +1,13 @@
 #  <div align="center"> Processing </div>
+https://github.com/lporanta/Processing/blob/master/demo/sineCircle.gif
 
+<p align="center">
+<img src="https://github.com/lporanta/Processing/blob/master/demo/sineCircle.gif" width="640" height="480">
+</p>
+
+###### <div align="center"> Study with sine function </div>
+
+***
 
 <p align="center">
 <img src="https://github.com/lporanta/Processing/blob/master/demo/SnowStorm.gif" width="640" height="480">
