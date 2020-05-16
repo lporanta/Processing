@@ -10,6 +10,14 @@
 ***
 
 <p align="center">
+<img src="https://github.com/lporanta/Processing/blob/master/demo/smoothSquare.gif" width="640" height="480">
+</p>
+
+###### <div align="center"> Study with function for smooth motion </div>
+
+***
+
+<p align="center">
 <img src="https://github.com/lporanta/Processing/blob/master/demo/SnowStorm.gif" width="640" height="480">
 </p>
 
