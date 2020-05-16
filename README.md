@@ -26,9 +26,6 @@
 ***
 
 <p align="center">
-<img src="https://github.com/lporanta/Processing/blob/master/demo/StaticNoise.gif" width="640" height="480"> 
-</p>
-<p align="center">
 <img src="https://github.com/lporanta/Processing/blob/master/demo/rorschachIMGMG.gif" width="640" height="480"> 
 </p>
 
