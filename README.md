@@ -32,9 +32,9 @@
 ***
 
 <p align="center">
-<img src="https://github.com/lporanta/Processing/blob/master/demo/ezgif-2-96863537cdc3.gif" width="640" height="480">
+<img src="https://github.com/lporanta/Processing/blob/master/demo/WorleyNoiseDivision.gif" width="640" height="480">
 </p>
 
-###### <div align="center"> Worley noise </div>
+###### <div align="center"> Worley noise with cell division </div>
 
 ***
