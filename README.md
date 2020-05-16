@@ -1,5 +1,12 @@
 #  <div align="center"> Processing </div>
 
+<p align="center">
+<img src="https://github.com/lporanta/Processing/blob/master/demo/singularity.gif" width="640" height="480">
+</p>
+
+###### <div align="center"> Study with particles and attraction force </div>
+
+***
 
 <p align="center">
 <img src="https://github.com/lporanta/Processing/blob/master/demo/particleFunLossy.gif" width="640" height="480">
