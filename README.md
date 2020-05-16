@@ -1,6 +1,5 @@
 #  <div align="center"> Processing </div>
 
-
 <p align="center">
 <img src="https://github.com/lporanta/Processing/blob/master/demo/sineCircle.gif" width="640" height="480">
 </p>
@@ -14,6 +13,14 @@
 </p>
 
 ###### <div align="center"> Study with function for smooth motion </div>
+
+***
+
+<p align="center">
+<img src="https://github.com/lporanta/Processing/blob/master/demo/SyncSquaresActuallyCircles.gif" width="640" height="480">
+</p>
+
+###### <div align="center"> Study with sine function offset by distance </div>
 
 ***
 
