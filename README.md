@@ -17,10 +17,10 @@
 ***
 
 <p align="center">
-<img src="https://github.com/lporanta/Processing/blob/master/demo/rorschachIMGMG.gif" width="640" height="480">
+<img src="https://github.com/lporanta/Processing/blob/master/demo/StaticNoise.gif" width="640" height="480">
 </p>
 
-###### <div align="center"> Study with Perlin noise and random noise </div>
+###### <div align="center"> Study with Perlin noise </div>
 
 ***
 
