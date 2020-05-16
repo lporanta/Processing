@@ -12,7 +12,7 @@
 <img src="https://github.com/lporanta/Processing/blob/master/demo/smoothSquare.gif" width="640" height="480">
 </p>
 
-###### <div align="center"> Study with function for smooth motion </div>
+###### <div align="center"> Study with a function for smooth motion </div>
 
 ***
 
@@ -20,7 +20,7 @@
 <img src="https://github.com/lporanta/Processing/blob/master/demo/SyncSquaresActuallyCircles.gif" width="640" height="640">
 </p>
 
-###### <div align="center"> Study with sine function offset by distance </div>
+###### <div align="center"> Study with sine function phase offset by distance </div>
 
 ***
 
