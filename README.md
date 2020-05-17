@@ -17,7 +17,7 @@
 ***
 
 <p align="center">
-<img src="https://github.com/lporanta/Processing/blob/master/demo/SyncSquaresActuallyCircles.gif" width="640" height="640">
+<img src="https://github.com/lporanta/Processing/blob/master/demo/SyncSquaresSmoothRoot.gif" width="640" height="640">
 </p>
 
 ###### <div align="center"> Study with sine function phase offset by distance </div>
