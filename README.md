@@ -76,7 +76,7 @@
 <img src="https://github.com/lporanta/Processing/blob/master/demo/worleydots-000002.png">
 </p>
 
-###### <div align="center"> Worley noise -like study with color </div>
+###### <div align="center"> Worley noise like study with color </div>
 
 ***
 
@@ -84,7 +84,7 @@
 <img src="https://github.com/lporanta/Processing/blob/master/demo/worleydots-000026.png">
 </p>
 
-###### <div align="center"> Worley noise -like study </div>
+###### <div align="center"> Worley noise like study </div>
 
 ***
 
