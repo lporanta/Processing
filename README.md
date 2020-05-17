@@ -25,6 +25,14 @@
 ***
 
 <p align="center">
+<img src="https://github.com/lporanta/Processing/blob/master/demo/SyncSquaresBig.gif" width="640" height="640">
+</p>
+
+###### <div align="center"> Study with intersecting circles </div>
+
+***
+
+<p align="center">
 <img src="https://github.com/lporanta/Processing/blob/master/demo/SnowStorm.gif" width="640" height="480">
 </p>
 
