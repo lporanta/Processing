@@ -57,6 +57,13 @@
 ***
 
 <p align="center">
+<img src="https://github.com/lporanta/Processing/blob/master/demo/syncActualSquares.gif" width="640" height="640">
+</p>
+
+###### <div align="center"> Study with intersecting squares </div>
+
+***
+<p align="center">
 <img src="https://github.com/lporanta/Processing/blob/master/demo/rorschachIMGMG.gif" width="640" height="480"> 
 </p>
 
