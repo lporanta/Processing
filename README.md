@@ -96,14 +96,6 @@
 ***
 
 <p align="center">
-<img src="https://github.com/lporanta/Processing/blob/master/demo/worleydots-000026.png">
-</p>
-
-###### <div align="center"> Worley noise like study </div>
-
-***
-
-<p align="center">
 <img src="https://github.com/lporanta/Processing/blob/master/demo/randomStudy-000690.png">
 </p>
 
