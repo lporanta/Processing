@@ -9,6 +9,14 @@
 ***
 
 <p align="center">
+<img src="https://github.com/lporanta/Processing/blob/master/demo/mBtest2_center3.gif" width="640" height="480">
+</p>
+
+###### <div align="center"> Study with smoothstep and tics </div>
+
+***
+
+<p align="center">
 <img src="https://github.com/lporanta/Processing/blob/master/demo/smoothSquare.gif" width="640" height="480">
 </p>
 
