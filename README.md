@@ -9,7 +9,7 @@
 ***
 
 <p align="center">
-<img src="https://github.com/lporanta/Processing/blob/master/demo/mBtest2_center3.gif" width="640" height="640">
+<img src="https://github.com/lporanta/Processing/blob/master/demo/mBtest2_diffTail.gif" width="640" height="640">
 </p>
 
 ###### <div align="center"> Study with smoothstep and tics </div>
