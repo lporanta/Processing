@@ -9,10 +9,10 @@
 ***
 
 <p align="center">
-<img src="https://github.com/lporanta/Processing/blob/master/demo/mBtest2_diffTail.gif" width="640" height="640">
+<img src="https://github.com/lporanta/Processing/blob/master/demo/mBtest2_bloom_withoutCenter.gif" width="640" height="640">
 </p>
 
-###### <div align="center"> Study with smoothstep and tics </div>
+###### <div align="center"> Study with smoothstep, tics and bloom </div>
 
 ***
 
