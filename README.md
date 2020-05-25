@@ -9,6 +9,14 @@
 ***
 
 <p align="center">
+<img src="https://github.com/lporanta/Processing/blob/master/demo/TEESTok.gif" width="640" height="480">
+</p>
+
+###### <div align="center"> Study with polar Perlin noise and Processing.py </div>
+
+***
+
+<p align="center">
 <img src="https://github.com/lporanta/Processing/blob/master/demo/mBtest2_bloom_withoutCenter.gif" width="640" height="640">
 </p>
 
