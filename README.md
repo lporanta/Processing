@@ -9,15 +9,15 @@
 ***
 
 <p align="center">
-<img src="https://github.com/lporanta/Processing/blob/master/demo/mBtest2_bloom_withoutCenter.gif" width="640" height="640">
+<img src="https://github.com/lporanta/Processing/blob/master/demo/TEESTok.gif" width="640" height="480">
 </p>
 
-###### <div align="center"> Study with smoothstep, tics and bloom </div>
+###### <div align="center"> Study with polar Perlin noise and Processing.py </div>
 
 ***
 
 <p align="center">
-<img src="https://github.com/lporanta/Processing/blob/master/demo/PythonArcTest.gif" width="640" height="480">
+<img src="https://github.com/lporanta/Processing/blob/master/demo/mBtest2_bloom_withoutCenter.gif" width="640" height="640">
 </p>
 
 ###### <div align="center"> Study with smoothstep, tics and bloom </div>
@@ -65,10 +65,10 @@
 ***
 
 <p align="center">
-<img src="https://github.com/lporanta/Processing/blob/master/demo/TEESTok.gif" width="640" height="480">
+<img src="https://github.com/lporanta/Processing/blob/master/demo/PythonArcTest.gif" width="640" height="480">
 </p>
 
-###### <div align="center"> Study with polar Perlin noise and Processing.py </div>
+###### <div align="center"> Study with arcs </div>
 
 ***
 
