@@ -25,6 +25,14 @@
 ***
 
 <p align="center">
+<img src="https://github.com/lporanta/Processing/blob/master/demo/PythonArcTest.gif" width="640" height="480">
+</p>
+
+###### <div align="center"> Study with smoothstep, tics and bloom </div>
+
+***
+
+<p align="center">
 <img src="https://github.com/lporanta/Processing/blob/master/demo/smoothSquare.gif" width="640" height="480">
 </p>
 
@@ -110,12 +118,3 @@
 ###### <div align="center"> Study with random values and gaussian distribution </div>
 
 ***
-
-<p align="center">
-<img src="https://github.com/lporanta/Processing/blob/master/demo/randomStudy-002863.png" width="640" height="640">
-</p>
-
-###### <div align="center"> Study with gaussian distribution and spiral </div>
-
-***
-
