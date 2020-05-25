@@ -68,7 +68,7 @@
 <img src="https://github.com/lporanta/Processing/blob/master/demo/PythonArcTest.gif" width="640" height="480">
 </p>
 
-###### <div align="center"> Study with arcs </div>
+###### <div align="center"> Study with arcs (seems like arcs are not very stable in Processing) </div>
 
 ***
 
