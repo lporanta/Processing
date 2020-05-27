@@ -65,10 +65,10 @@
 ***
 
 <p align="center">
-<img src="https://github.com/lporanta/Processing/blob/master/demo/PythonArcTest.gif" width="640" height="480">
+<img src="https://github.com/lporanta/Processing/blob/master/demo/dotArcs.gif" width="640" height="480">
 </p>
 
-###### <div align="center"> Study with arcs (seems like arcs are not very stable in Processing) </div>
+###### <div align="center"> Study with arcs and Perlin Noise </div>
 
 ***
 
