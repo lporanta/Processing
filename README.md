@@ -81,6 +81,14 @@
 ***
 
 <p align="center">
+<img src="https://github.com/lporanta/Processing/blob/master/demo/pythonWiggle.gif" width="640" height="480">
+</p>
+
+###### <div align="center"> Study with Processing.py </div>
+
+***
+
+<p align="center">
 <img src="https://github.com/lporanta/Processing/blob/master/demo/SyncSquaresBig.gif" width="640" height="640">
 </p>
 
