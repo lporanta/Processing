@@ -9,6 +9,14 @@
 ***
 
 <p align="center">
+<img src="https://github.com/lporanta/Processing/blob/master/demo/pBloopSwingNoStroke.gif">
+</p>
+
+###### <div align="center"> Study with Bézier curve and Processing.py </div>
+
+***
+
+<p align="center">
 <img src="https://github.com/lporanta/Processing/blob/master/demo/TEESTok.gif" width="640" height="480">
 </p>
 
