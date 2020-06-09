@@ -12,7 +12,7 @@
 <img src="https://github.com/lporanta/Processing/blob/master/demo/pBloopSwingNoStroke.gif">
 </p>
 <p align="center">
-<img src="https://github.com/lporanta/Processing/blob/master/demo/pBloopSwingLoopy.gif>
+<img src="https://github.com/lporanta/Processing/blob/master/demo/pBloopSwingLoopy.gif">
 </p>
 
 ###### <div align="center"> Study with Bézier curve and Processing.py </div>
