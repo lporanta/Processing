@@ -19,7 +19,6 @@
 
 ***
 
-https://github.com/lporanta/Processing/blob/master/demo/polygonCircleSolo.gif?raw=true
 <p align="center">
 <img src="https://github.com/lporanta/Processing/blob/master/demo/polygonCircleSolo.gif" width="600" height="400">
 </p>
