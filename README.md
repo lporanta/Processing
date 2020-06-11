@@ -19,6 +19,15 @@
 
 ***
 
+https://github.com/lporanta/Processing/blob/master/demo/polygonCircleSolo.gif?raw=true
+<p align="center">
+<img src="https://github.com/lporanta/Processing/blob/master/demo/polygonCircleSolo.gif" width="600" height="400">
+</p>
+
+###### <div align="center"> Study with morphing </div>
+
+***
+
 <p align="center">
 <img src="https://github.com/lporanta/Processing/blob/master/demo/TEESTok.gif" width="640" height="480">
 </p>
