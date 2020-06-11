@@ -7,7 +7,13 @@
 ###### <div align="center"> Study with sine function </div>
 
 ***
+<p align="center">
+<img src="https://github.com/lporanta/Processing/blob/master/demo/pinkCubes.gif?raw=true" width="600" height="400">
+</p>
 
+###### <div align="center"> Study with P3D </div>
+
+***
 <p align="center">
 <img src="https://github.com/lporanta/Processing/blob/master/demo/pBloopSwingNoStroke.gif">
 </p>
