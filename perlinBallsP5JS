@@ -1,0 +1,35 @@
+var off = 0.0;
+var offY = 0.0;
+var offInc = 0.005;
+var movers = [];
+var moverAmount = 7;
+
+function setup() {
+  createCanvas(400, 400);
+  blendMode(LIGHTEST);
+  frameRate(25);
+  background(0);
+  noStroke();
+  for (let i = 0; i < moverAmount; i++) {
+    movers.push(new mover(random(width), random(height)));
+  }
+}
+
+function mover(x, y) {
+  this.x = x;
+  this.y = y;
+}
+
+function drawPoints(mover) {
+  fill(noise(mover.x + off) * 255, noise(mover.y + offY) * 255, noise(mover.x + mover.y + off + offY) * 255, 255);
+  circle(noise(mover.x + off) * width, noise(mover.y + offY) * height, 10 + noise(mover.x + mover.y + off + offY) * 200);
+}
+
+function draw() {
+  blendMode(BLEND);
+  background(255);
+  blendMode(DIFFERENCE);
+  movers.forEach(drawPoints);
+  off += offInc;
+  offY += offInc;
+}
