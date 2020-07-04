@@ -1,10 +1,24 @@
 #  <div align="center"> Processing </div>
 
 <p align="center">
+<img src="https://github.com/lporanta/Processing/blob/master/demo/flowFieldArt_seed2_f0_01_alp10_a50k_j50.jpg" width="640" height="640">
+</p>
+
+###### <div align="center"> Flow field </div>
+
+***
+<p align="center">
 <img src="https://github.com/lporanta/Processing/blob/master/demo/PDFtoJPG10Print.jpg" width="640" height="640">
 </p>
 
 ###### <div align="center"> 10Schotter </div>
+
+***
+<p align="center">
+<img src="https://github.com/lporanta/Processing/blob/master/demo/generative.jpg" width="640" height="640">
+</p>
+
+###### <div align="center"> Typography with flow field </div>
 
 ***
 <p align="center">
