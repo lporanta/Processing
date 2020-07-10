@@ -1,6 +1,20 @@
 #  <div align="center"> Processing </div>
 
 <p align="center">
+<img src=https://github.com/lporanta/Processing/blob/master/demo/polyLines3.jpg" width="640" height="640">
+</p>
+
+###### <div align="center"> Trigonometric </div>
+
+***
+<p align="center">
+<img src=https://github.com/lporanta/Processing/blob/master/demo/triangulation5.jpg" width="640" height="640">
+</p>
+
+###### <div align="center"> Triangulation </div>
+
+***
+<p align="center">
 <img src="https://github.com/lporanta/Processing/blob/master/demo/flowFieldArt_seed2_f0_01_alp10_a50k_j50.jpg" width="640" height="640">
 </p>
 
