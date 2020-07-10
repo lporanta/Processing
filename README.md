@@ -1,7 +1,7 @@
 #  <div align="center"> Processing </div>
 
 <p align="center">
-<img src"=https://github.com/lporanta/Processing/blob/master/demo/polyLines3.jpg" width="640" height="640">
+<img src="https://github.com/lporanta/Processing/blob/master/demo/polyLines3.jpg" width="640" height="640">
 </p>
 
 ###### <div align="center"> Trigonometric </div>
