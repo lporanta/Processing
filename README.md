@@ -63,13 +63,6 @@
 
 ***
 <p align="center">
-<img src="https://github.com/lporanta/Processing/blob/master/demo/generative.jpg" width="640" height="640">
-</p>
-
-###### <div align="center"> Typography with flow field </div>
-
-***
-<p align="center">
 <img src="https://github.com/lporanta/Processing/blob/master/demo/sineCircle.gif" width="640" height="480">
 </p>
 
