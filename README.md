@@ -36,10 +36,10 @@
 <img src="https://github.com/lporanta/Processing/blob/master/demo/triangulationRenders/triangulation21.jpg" width="640" height="640">
 </p>
 <p align="center">
-<img src="https://github.com/lporanta/Processing/blob/master/demo/triangulationRenders/triangulation23.jpg" width="640" height="640">
+<img src="https://github.com/lporanta/Processing/blob/master/demo/triangulationRenders/triangulation34.jpg" width="640" height="640">
 </p>
 <p align="center">
-<img src="https://github.com/lporanta/Processing/blob/master/demo/triangulationRenders/triangulation25.jpg" width="640" height="640">
+<img src="https://github.com/lporanta/Processing/blob/master/demo/triangulationRenders/triangulation35.jpg" width="640" height="640">
 </p>
 <p align="center">
 <img src="https://github.com/lporanta/Processing/blob/master/demo/triangulationRenders/triangulation28.jpg" width="640" height="640">
