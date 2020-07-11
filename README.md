@@ -33,9 +33,6 @@
 <img src="https://github.com/lporanta/Processing/blob/master/demo/triangulationRenders/triangulation19.jpg" width="640" height="640">
 </p>
 <p align="center">
-<img src="https://github.com/lporanta/Processing/blob/master/demo/triangulationRenders/triangulation21.jpg" width="640" height="640">
-</p>
-<p align="center">
 <img src="https://github.com/lporanta/Processing/blob/master/demo/triangulationRenders/triangulation34.jpg" width="640" height="640">
 </p>
 <p align="center">
