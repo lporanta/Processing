@@ -7,12 +7,7 @@
 ###### <div align="center"> Trigonometric </div>
 
 ***
-<p align="center">
-<img src="https://github.com/lporanta/Processing/blob/master/demo/triangulationRenders/triangulation.jpg" width="640" height="640">
-</p>
-<p align="center">
-<img src="https://github.com/lporanta/Processing/blob/master/demo/triangulationRenders/triangulation3.jpg" width="640" height="640">
-</p>
+
 <p align="center">
 <img src="https://github.com/lporanta/Processing/blob/master/demo/triangulationRenders/triangulation4.jpg" width="640" height="640">
 </p>
@@ -27,9 +22,6 @@
 </p>
 <p align="center">
 <img src="https://github.com/lporanta/Processing/blob/master/demo/triangulationRenders/triangulation11.jpg" width="640" height="640">
-</p>
-<p align="center">
-<img src="https://github.com/lporanta/Processing/blob/master/demo/triangulationRenders/triangulation12.jpg" width="640" height="640">
 </p>
 <p align="center">
 <img src="https://github.com/lporanta/Processing/blob/master/demo/triangulationRenders/triangulation13.jpg" width="640" height="640">
