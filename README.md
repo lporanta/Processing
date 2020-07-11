@@ -15,10 +15,10 @@
 <img src="https://github.com/lporanta/Processing/blob/master/demo/triangulationRenders/triangulation5.jpg" width="640" height="640">
 </p>
 <p align="center">
-<img src="https://github.com/lporanta/Processing/blob/master/demo/triangulationRenders/triangulation9.jpg" width="640" height="640">
+<img src="https://github.com/lporanta/Processing/blob/master/demo/triangulationRenders/triangulation10.jpg" width="640" height="640">
 </p>
 <p align="center">
-<img src="https://github.com/lporanta/Processing/blob/master/demo/triangulationRenders/triangulation10.jpg" width="640" height="640">
+<img src="https://github.com/lporanta/Processing/blob/master/demo/triangulationRenders/triangulation9.jpg" width="640" height="640">
 </p>
 <p align="center">
 <img src="https://github.com/lporanta/Processing/blob/master/demo/triangulationRenders/triangulation11.jpg" width="640" height="640">
