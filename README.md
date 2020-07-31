@@ -9,6 +9,14 @@
 ***
 
 <p align="center">
+<img src="hhttps://github.com/lporanta/Processing/blob/master/demo/shaderBubble_motionBlur.gif" width="600">
+</p>
+
+###### <div align="center"> Trigonometric </div>
+
+***
+
+<p align="center">
 <img src="https://github.com/lporanta/Processing/blob/master/demo/triangulationRenders/triangulation4.jpg" width="640">
 </p>
 <p align="center">
