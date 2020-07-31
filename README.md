@@ -9,10 +9,10 @@
 ***
 
 <p align="center">
-<img src="hhttps://github.com/lporanta/Processing/blob/master/demo/shaderBubble_motionBlur.gif" width="600">
+<img src="https://github.com/lporanta/Processing/blob/master/demo/shaderBubble_motionBlur.gif" width="600">
 </p>
 
-###### <div align="center"> Trigonometric </div>
+###### <div align="center"> GLSL </div>
 
 ***
 
