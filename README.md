@@ -9,6 +9,10 @@
 ***
 
 <p align="center">
+<img src="https://github.com/lporanta/Processing/blob/master/demo/ST2_50blur.gif" width="600">
+</p>
+
+<p align="center">
 <img src="https://github.com/lporanta/Processing/blob/master/demo/shaderBubble_motionBlur.gif" width="600">
 </p>
 
