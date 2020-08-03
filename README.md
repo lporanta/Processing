@@ -4,6 +4,10 @@
 <img src="https://github.com/lporanta/Processing/blob/master/demo/polyLines3.jpg" width="640">
 </p>
 
+<p align="center">
+<img src="https://github.com/lporanta/Processing/blob/master/demo/Equilateral.gif" width="600">
+</p>
+
 ###### <div align="center"> Trigonometric </div>
 
 ***
