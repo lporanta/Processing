@@ -11,6 +11,9 @@
 ###### <div align="center"> Trigonometric </div>
 
 ***
+<p align="center">
+<img src="https://github.com/lporanta/Processing/blob/master/demo/shaderTestMetaDisc.gif" width="600">
+</p>
 
 <p align="center">
 <img src="https://github.com/lporanta/Processing/blob/master/demo/ST2_50blur.gif" width="600">
